@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Auriculares Wave 300",
+    "price": 59.9,
+    "inStock": true,
+    "image": "https://picsum.photos/seed/1/400/300",
+    "rating": 4.3
+  },
+  {
+    "id": 2,
+    "name": "Cargador USB-C 65W con cable extra largo para viajes y oficina",
+    "price": 39.5,
+    "inStock": false,
+    "image": "https://picsum.photos/seed/2/400/300",
+    "rating": 3.8
+  },
+  {
+    "id": 3,
+    "name": "Teclado mecánico",
+    "price": 89,
+    "inStock": true,
+    "image": "",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Monitor 27\" QHD",
+    "price": 279.99,
+    "inStock": true,
+    "image": "https://picsum.photos/seed/4/400/300",
+    "rating": 4.5
+  },
+  {
+    "id": 5,
+    "name": "Mouse inalámbrico",
+    "price": 24.99,
+    "inStock": false,
+    "image": "https://picsum.photos/seed/5/400/300",
+    "rating": 4.1
+  },
+  {
+    "id": 6,
+    "name": "Webcam 1080p",
+    "price": 54.0,
+    "inStock": true,
+    "image": "https://picsum.photos/seed/6/400/300",
+    "rating": 3.9
+  },
+  {
+    "id": 7,
+    "name": "Base para laptop",
+    "price": 32.0,
+    "inStock": true,
+    "image": null,
+    "rating": 4.0
+  },
+  {
+    "id": 8,
+    "name": "Hub USB-C 7-en-1",
+    "price": 49.0,
+    "inStock": true,
+    "image": "https://picsum.photos/seed/8/400/300",
+    "rating": 4.2
+  },
+  {
+    "id": 9,
+    "name": "Silla ergonómica",
+    "price": 199.0,
+    "inStock": false,
+    "image": "https://picsum.photos/seed/9/400/300",
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "name": "Lámpara de escritorio",
+    "price": 19.0,
+    "inStock": true,
+    "image": "https://picsum.photos/seed/10/400/300",
+    "rating": 3.6
+  },
+  {
+    "id": 11,
+    "name": "Micrófono USB",
+    "price": 79.0,
+    "inStock": true,
+    "image": "https://picsum.photos/seed/11/400/300",
+    "rating": 4.4
+  },
+  {
+    "id": 12,
+    "name": "Tapete para mouse XL",
+    "price": 12.0,
+    "inStock": true,
+    "image": "https://picsum.photos/seed/12/400/300",
+    "rating": 3.5
+  }
+]
