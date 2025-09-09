@@ -5,6 +5,7 @@ Se trabaja con un listado de productos en formato JSON con las propiedades:
 id, name, price, inStock, image, rating.
 
 🚀 Features
+----------------
 🖼️ Productos
 
 Se muestra cada producto en formato de tarjeta: imagen (con placeholder si falta), nombre, precio y disponibilidad.
