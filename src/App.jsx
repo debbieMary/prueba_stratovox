@@ -4,7 +4,7 @@ import  ProductFilters  from './components/ProductFilters';
 import ProductCard from './components/ProductCard';
 import  ProductGrid  from './components/ProductGrid';
 import  EmptyState from './components/EmptyState';
-import datos from './datos.json';
+import datos from './data/datos.json';
 
 function App() {
   const [filters, setFilters] = useState({
