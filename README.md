@@ -1,12 +1,27 @@
-# React + Vite
+📦 Lista de Productos - Ejercicio
+📌 Datos iniciales
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Se trabaja con un listado de productos en formato JSON con las propiedades:
+id, name, price, inStock, image, rating.
 
-Currently, two official plugins are available:
+🚀 Features
+🖼️ Productos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Se muestra cada producto en formato de tarjeta: imagen (con placeholder si falta), nombre, precio y disponibilidad.
 
-## Expanding the ESLint configuration
+🔎 Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Se implementa búsqueda por nombre.
+Se implementa filtro para mostrar solo productos disponibles (checkbox/toggle).
+Se permite ordenar por precio en orden ascendente/descendente.
+
+⚠️ Estados
+
+Se muestra un mensaje cuando no hay resultados y se da opción para limpiar filtros.
+Se usa un placeholder cuando falta la imagen.
+
+🎨 Diseño / UX
+
+Se implementa layout responsive: 1 columna en móvil, 2–3 en desktop.
+Se mantiene jerarquía visual clara (tipografía y espaciado).
+Se asegura accesibilidad básica: etiquetas, roles, foco visible y contraste adecuado.
